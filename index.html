@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Taiwan Map</title>
-  <meta name="theme-color" content="#0f766e">
+  <meta name="theme-color" content="#2563eb">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Taiwan Map">
@@ -38,38 +38,36 @@
     <button type="button" id="pickCancel" class="btn small">Cancel</button>
   </div>
 
-  <div id="fabs">
-    <button type="button" id="btnLocate" class="fab" aria-label="Center on me" title="Center on me">
-      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="currentColor"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="7.5" fill="none" stroke="currentColor" stroke-width="2"/></svg>
-    </button>
-  </div>
+  <button type="button" id="btnLocate" class="fab" aria-label="Show my location" title="Show my location">
+    <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M12 2 L20 21 L12 16.5 L4 21 Z" fill="currentColor" transform="rotate(45 12 12)"/></svg>
+  </button>
 
-  <footer id="bottom">
-    <div id="filters" role="toolbar" aria-label="Filters"></div>
-    <nav id="actions">
-      <button type="button" id="btnItin" class="act">
-        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 4h14v17H5z M8 2v4M16 2v4M5 9h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+  <aside id="panel" data-size="peek" aria-label="Places and day plan">
+    <div id="grip" role="button" tabindex="0" aria-label="Resize panel"><span></span></div>
+    <nav id="tabs">
+      <button type="button" class="tab" data-tab="places">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span>Places</span>
+      </button>
+      <button type="button" class="tab" data-tab="plan">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 4h14v17H5z M8 2v4M16 2v4M5 9h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
         <span>Day plan</span>
       </button>
-      <button type="button" id="btnAdd" class="act primary">
-        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-        <span>Add place</span>
+      <button type="button" class="tab" data-tab="add">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
+        <span>Add</span>
       </button>
-      <button type="button" id="btnMenu" class="act">
-        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <button type="button" class="tab" data-tab="menu">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="5" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="19" cy="12" r="2" fill="currentColor"/></svg>
         <span>More<b id="needBadge" hidden></b></span>
       </button>
     </nav>
-  </footer>
-
-  <section id="sheet" hidden aria-live="polite">
-    <div class="sheet-head">
-      <button type="button" id="sheetBack" class="icon-btn" aria-label="Back" hidden>‹</button>
-      <h2 id="sheetTitle"></h2>
-      <button type="button" id="sheetClose" class="icon-btn" aria-label="Close">×</button>
+    <div id="panelHead">
+      <button type="button" id="panelBack" class="icon-btn" aria-label="Back" hidden>‹</button>
+      <h2 id="panelTitle"></h2>
     </div>
-    <div id="sheetBody"></div>
-  </section>
+    <div id="panelBody"></div>
+  </aside>
 
   <div id="toast" role="status" hidden></div>
   <input type="file" id="importFile" accept="application/json,.json" hidden>

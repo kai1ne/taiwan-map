@@ -16,6 +16,7 @@ A phone-first map of about 100 curated places in Taichung and Taipei for the Oct
 | `GEOCODE_REPORT.md` | Places that still need a location, and how each was geocoded |
 | `tools/build_places.py` | The script that built `places.json` from the build spec (kept as a record) |
 | `tools/geocode_cache.json` | Cached Nominatim answers, so a rebuild sends no new requests |
+| `tools/fetch_photos.py`, `tools/photo_cache.json` | Adds a free Wikimedia Commons photo to places that have one (run after editing places.json; cached) |
 
 ## Add or update a curated place
 
@@ -52,6 +53,7 @@ Edit `places.json` directly in any text editor, or on github.com by clicking the
 - **startDate / endDate** (events only): `"2026-10-03"`. The event shows on the map only on those dates.
 - **flag**: optional warning shown on the card, e.g. `"May have closed — check before going"`.
 - Optional **nameZh / addressZh**: Chinese name and address, shown large on the card (handy for taxis).
+- Optional **photo**: `{"src": "https://upload.wikimedia.org/…", "page": "…", "credit": "Author, CC BY-SA 4.0 · Wikimedia Commons"}`. `python3 tools/fetch_photos.py` fills this in automatically; it only uses a photo when the Wikidata entry's own coordinates are near the pin. Keep the credit — the photo licences require it.
 
 Check the JSON is valid (every comma and quote), save, and redeploy (below). If the map goes blank after an edit, the JSON almost always has a typo.
 
@@ -78,14 +80,15 @@ Your own data lives only in the browser on your phone. It's lost if you clear Sa
 
 ## How the app behaves
 
-- Opens on the home base, 國泰美術觀道. **Taichung / Taipei** at the top jumps between the cities.
-- Places are never sorted by distance. The map shows what's near you, and lists are alphabetical or grouped by category.
-- **Filters:** category chips show or hide each category. **★ Michelin** and **Kid-friendly** narrow the map to places with that tag; with both on, you see places with either tag. Home bases always show.
-- **Events** appear only on their dates. The date pill at the top ("Today: …") lets you pretend it's another day for planning. **Show all events** ignores dates. On Oct 9–11 a National Day long-weekend banner shows.
+- **Main panel (Places):** a list of every place with filter chips and a search box on top; the list and the map markers change together as you filter. On a phone it's a bottom sheet — drag or tap the grey handle for small / half / full height. On a wider screen it's a sidebar on the left. The list is A–Z (current city first), never sorted by distance; when GPS is on, each row shows how far away it is.
+- **Place card:** a photo where a free one exists (Wikimedia Commons, credited), the why, sources, hours or "check Google Maps", flags, notes, **🚶 Walking directions** (opens Google Maps walking directions from where you are) and **Google Maps** (live hours, reviews, more photos).
+- **Location:** tap the arrow button to show the blue dot and follow you as you walk; drag the map to stop following. Needs location permission.
+- **Filters:** category chips show or hide each category. **★ Michelin** and **Kid-friendly** narrow to places with that tag; with both on, you see places with either. Home bases always show.
+- **Events** appear only on their dates. The date pill at the top lets you pretend it's another day. **All events** ignores dates. On Oct 9–11 a National Day long-weekend banner shows.
 - **Visited** greys the marker and adds a green ✓. The place never disappears.
-- **Add place:** the button, or long-press the map. The location comes from GPS or a tap on the map. Places you add can be edited and deleted; curated ones can't be deleted.
+- **Add place:** the Add tab, or long-press the map. Location comes from GPS or a tap on the map. Your places can be edited and deleted; curated ones can't be deleted.
 - **Fix location** on any place: tap it, then tap the map. **Undo my location fix** restores the curated position.
-- **Day plan:** pick a date (Oct 1–15) and a start (home base by default). Add places or custom entries with times and reorder with ↑/↓. **Suggest walking order** orders stops by nearest-next from the start. Distances are straight lines and times assume about 80 m/min; both are estimates. Legs over 2 km are marked "probably not walkable". Hours warnings appear when the snapshot says a place is closed on that day or at that time. Nothing is ever blocked. **Nearby ideas** lists places within about 1 km.
+- **Day plan:** pick a date (Oct 1–15) and a start (home base by default). The top half is the day's timeslots (07:00–23:00 plus "Any time"); the bottom half is a filterable place list. Drag a place's ⠿ handle onto a time, or tap a time and pick a place. Drag a stop's ⠿ to move it to another time; edit the minutes in its time box. **Suggest order** puts stops in nearest-next walking order from the start and hands your chosen times out in that order. Between stops you see straight-line distance and estimated walking time (about 80 m/min), a "probably not walkable" warning over 2 km, and a **Directions** link that opens that leg in Google Maps. Hours warnings appear when the snapshot says a place is closed; nothing is ever blocked. The "Nearby" menu narrows the list to places within about 1 km of the map centre, you, or a stop.
 
 ## Data credits
 

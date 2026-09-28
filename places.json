@@ -32,7 +32,7 @@
     "lng": 120.681643,
     "category": "home-base",
     "tags": [],
-    "why": "Carol's mom's pawn shop and home.",
+    "why": "",
     "notes": "",
     "sources": [
       {
@@ -1107,7 +1107,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Eslite_Spectrum_Nanxi_07.23.jpg/960px-Eslite_Spectrum_Nanxi_07.23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Eslite_Spectrum_Nanxi_07.23.jpg",
+      "credit": "This Photo was taken by Supanut Arunoprayote. … CC BY 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tp-beams-taipei",
@@ -2293,7 +2298,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2012-01-17_the_%22Miyahara_Eye_Hospital%22_food_shop_and_restaurant_in_Taichung.jpg/960px-2012-01-17_the_%22Miyahara_Eye_Hospital%22_food_shop_and_restaurant_in_Taichung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2012-01-17_the_%22Miyahara_Eye_Hospital%22_food_shop_and_restaurant_in_Taichung.jpg",
+      "credit": "Cheng-en Cheng, CC BY-SA 2.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-haritts",
@@ -2708,7 +2718,12 @@
     "startDate": null,
     "endDate": null,
     "address": "No. 1, Guanqian Rd, North District, Taichung",
-    "flag": "A review reported the dinosaur hall temporarily closed — check"
+    "flag": "A review reported the dinosaur hall temporarily closed — check",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/National_Museum_of_Natural_Science_Taichung_01.jpg/960px-National_Museum_of_Natural_Science_Taichung_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_Science_Taichung_01.jpg",
+      "credit": "David Villa, CC BY 2.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-921-earthquake-museum",
@@ -2734,7 +2749,12 @@
     "startDate": null,
     "endDate": null,
     "address": "No. 192, Xinsheng Rd, Wufeng District, Taichung",
-    "flag": "Simulator reported closed on one visit"
+    "flag": "Simulator reported closed on one visit",
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Museum_921.JPG/960px-Museum_921.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Museum_921.JPG",
+      "credit": "Iv0202, CC BY-SA 3.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-macaron-park",
@@ -2760,7 +2780,12 @@
     "startDate": null,
     "endDate": null,
     "address": "No. 19, Sec. 4, Huanzhong E Rd, Taiping District, Taichung",
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%E9%A6%AC%E5%8D%A1%E9%BE%8D%E5%85%AC%E5%9C%92.jpg/960px-%E9%A6%AC%E5%8D%A1%E9%BE%8D%E5%85%AC%E5%9C%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%E9%A6%AC%E5%8D%A1%E9%BE%8D%E5%85%AC%E5%9C%92.jpg",
+      "credit": "葉又嘉, CC BY-SA 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-lixin-park",
@@ -2812,7 +2837,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2024%E5%B9%B4%E5%8F%B0%E4%B8%AD%E5%85%AC%E5%9C%92%E6%B9%96%E5%BF%83%E4%BA%AD%E8%88%87%E5%88%92%E8%88%B9%E9%81%8A%E5%AE%A2.jpg/960px-2024%E5%B9%B4%E5%8F%B0%E4%B8%AD%E5%85%AC%E5%9C%92%E6%B9%96%E5%BF%83%E4%BA%AD%E8%88%87%E5%88%92%E8%88%B9%E9%81%8A%E5%AE%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2024%E5%B9%B4%E5%8F%B0%E4%B8%AD%E5%85%AC%E5%9C%92%E6%B9%96%E5%BF%83%E4%BA%AD%E8%88%87%E5%88%92%E8%88%B9%E9%81%8A%E5%AE%A2.jpg",
+      "credit": "Outlookxp, CC BY 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-calligraphy-greenway",
@@ -2864,7 +2894,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%E5%8F%B0%E4%B8%AD%E5%A4%A7%E9%83%BD%E6%9C%83%E6%AD%8C%E5%8A%87%E9%99%A2_2014.7.jpg/960px-%E5%8F%B0%E4%B8%AD%E5%A4%A7%E9%83%BD%E6%9C%83%E6%AD%8C%E5%8A%87%E9%99%A2_2014.7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E4%B8%AD%E5%A4%A7%E9%83%BD%E6%9C%83%E6%AD%8C%E5%8A%87%E9%99%A2_2014.7.jpg",
+      "credit": "Fcuk1203, CC BY-SA 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-bugcat-capoo-house",
@@ -2916,7 +2951,12 @@
     "startDate": null,
     "endDate": null,
     "address": "Chun'an Rd, Nantun District, Taichung",
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Milit%C3%A4rsiedlung_Caihong.jpg/960px-Milit%C3%A4rsiedlung_Caihong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Milit%C3%A4rsiedlung_Caihong.jpg",
+      "credit": "Katja1031, CC BY-SA 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-gaomei-wetland",
@@ -2942,7 +2982,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E9%AB%98%E7%BE%8E%E6%BF%95%E5%9C%B0%E6%BF%B1%E6%B5%B7%E5%8D%80%E5%9F%9F.jpg/960px-%E9%AB%98%E7%BE%8E%E6%BF%95%E5%9C%B0%E6%BF%B1%E6%B5%B7%E5%8D%80%E5%9F%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%BE%8E%E6%BF%95%E5%9C%B0%E6%BF%B1%E6%B5%B7%E5%8D%80%E5%9F%9F.jpg",
+      "credit": "Axjun, CC BY-SA 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tc-lihpao-land",
@@ -2968,7 +3013,12 @@
     "startDate": null,
     "endDate": null,
     "address": "No. 8, Furong Rd, Houli District, Taichung",
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/View_of_Lihpao_Land.jpg/960px-View_of_Lihpao_Land.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Lihpao_Land.jpg",
+      "credit": "Yuriy kosygin, CC BY-SA 4.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tp-taipei-zoo-maokong",
@@ -3046,7 +3096,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Taipei_Children%27s_Amusement_Park_20141224.jpg/960px-Taipei_Children%27s_Amusement_Park_20141224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Taipei_Children%27s_Amusement_Park_20141224.jpg",
+      "credit": "Winertai, CC BY-SA 3.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tp-astronomical-museum",
@@ -3072,7 +3127,12 @@
     "startDate": null,
     "endDate": null,
     "address": null,
-    "flag": null
+    "flag": null,
+    "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Meilun_Park_and_Taipei_Astronomical_Museum_20040714.jpg/960px-Meilun_Park_and_Taipei_Astronomical_Museum_20040714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Meilun_Park_and_Taipei_Astronomical_Museum_20040714.jpg",
+      "credit": "Latinboy, CC BY-SA 3.0 · Wikimedia Commons"
+    }
   },
   {
     "id": "tp-miramar-ferris-wheel",

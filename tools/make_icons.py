@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Draw the home-screen icon (teal square, white map pin) as PNGs, no dependencies."""
+"""Draw the home-screen icon (blue square, white map pin) as PNGs, no dependencies."""
 import math, os, struct, zlib
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def png(path, size):
-    teal, white, dot = (15, 118, 110), (255, 255, 255), (228, 87, 46)
+    teal, white, dot = (37, 99, 235), (255, 255, 255), (234, 88, 12)
     ss = 3  # supersampling
     rows = []
     for y in range(size):

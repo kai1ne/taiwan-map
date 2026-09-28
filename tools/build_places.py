@@ -66,7 +66,7 @@ def cidlink(cid):
 LISTED = [
     # 6.1 Home base
     ("tc-home-meishuguandao", "國泰美術觀道 (Mei Shu Guan Dao), Wuquan 6th St", "Taichung", "West", "home-base", [], 24.135834, 120.664215, "12323566414725696821", "Where Calvin stays in Taichung. Default map center and itinerary start.", None),
-    ("tc-home-gong-tsing", "Gong Tsing (No. 485, Sec. 3, Fuxing Rd)", "Taichung", "South", "home-base", [], 24.134011, 120.681643, "15876232777521764072", "Carol's mom's pawn shop and home.", None),
+    ("tc-home-gong-tsing", "Gong Tsing (No. 485, Sec. 3, Fuxing Rd)", "Taichung", "South", "home-base", [], 24.134011, 120.681643, "15876232777521764072", "", None),
     # 6.2 Taichung
     ("tc-torien-yakitori", "Torien Yakitori", "Taichung", "West", "food", ["michelin"], 24.155431, 120.658322, "13315825835930134457", "Yakitori; Michelin Selected 2026", None),
     ("tc-lao-wang-hakka", "老王客家莊（五權總店）", "Taichung", "West", "food", [], 24.136473, 120.661392, "8049332745289313955", "Calvin: authentic Hakka food, 30-year-old hole in the wall, might need reservations", None),
