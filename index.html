@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Taiwan Map</title>
+  <meta name="theme-color" content="#0f766e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Taiwan Map">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+  <!-- Leaflet 1.9.4 + markercluster 1.5.3, pinned, with subresource integrity -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+        integrity="sha256-YU3qCpj/P06tdPBJGPax0bm6Q1wltfwjsho5TR4+TYc=" crossorigin="">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+        integrity="sha256-YSWCMtmNZNwqex4CEw1nQhvFub2lmU7vcCKP+XVwwXA=" crossorigin="">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="map" aria-label="Map"></div>
+
+  <header id="topbar">
+    <div class="seg" role="group" aria-label="City">
+      <button type="button" data-city="Taichung" class="seg-btn">Taichung</button>
+      <button type="button" data-city="Taipei" class="seg-btn">Taipei</button>
+    </div>
+    <button type="button" id="datePill" class="pill" aria-label="Change the date used for events"></button>
+  </header>
+  <div id="banner" hidden>National Day long weekend — expect crowds.</div>
+  <div id="pickBar" hidden>
+    <span id="pickText"></span>
+    <button type="button" id="pickCancel" class="btn small">Cancel</button>
+  </div>
+
+  <div id="fabs">
+    <button type="button" id="btnLocate" class="fab" aria-label="Center on me" title="Center on me">
+      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="currentColor"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="12" r="7.5" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+    </button>
+  </div>
+
+  <footer id="bottom">
+    <div id="filters" role="toolbar" aria-label="Filters"></div>
+    <nav id="actions">
+      <button type="button" id="btnItin" class="act">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 4h14v17H5z M8 2v4M16 2v4M5 9h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        <span>Day plan</span>
+      </button>
+      <button type="button" id="btnAdd" class="act primary">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
+        <span>Add place</span>
+      </button>
+      <button type="button" id="btnMenu" class="act">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span>More<b id="needBadge" hidden></b></span>
+      </button>
+    </nav>
+  </footer>
+
+  <section id="sheet" hidden aria-live="polite">
+    <div class="sheet-head">
+      <button type="button" id="sheetBack" class="icon-btn" aria-label="Back" hidden>‹</button>
+      <h2 id="sheetTitle"></h2>
+      <button type="button" id="sheetClose" class="icon-btn" aria-label="Close">×</button>
+    </div>
+    <div id="sheetBody"></div>
+  </section>
+
+  <div id="toast" role="status" hidden></div>
+  <input type="file" id="importFile" accept="application/json,.json" hidden>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"
+          integrity="sha256-Hk4dIpcqOSb0hZjgyvFOP+cEmDXUKKNE/tT542ZbNQg=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

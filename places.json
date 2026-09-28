@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "tc-home-meishuguandao",
+    "name": "國泰美術觀道 (Mei Shu Guan Dao), Wuquan 6th St",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.135834,
+    "lng": 120.664215,
+    "category": "home-base",
+    "tags": [],
+    "why": "Where Calvin stays in Taichung. Default map center and itinerary start.",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=12323566414725696821"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=12323566414725696821",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-home-gong-tsing",
+    "name": "Gong Tsing (No. 485, Sec. 3, Fuxing Rd)",
+    "city": "Taichung",
+    "district": "South",
+    "lat": 24.134011,
+    "lng": 120.681643,
+    "category": "home-base",
+    "tags": [],
+    "why": "Carol's mom's pawn shop and home.",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15876232777521764072"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15876232777521764072",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-torien-yakitori",
+    "name": "Torien Yakitori",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.155431,
+    "lng": 120.658322,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Yakitori; Michelin Selected 2026",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=13315825835930134457"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=13315825835930134457",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-lao-wang-hakka",
+    "name": "老王客家莊（五權總店）",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.136473,
+    "lng": 120.661392,
+    "category": "food",
+    "tags": [],
+    "why": "Calvin: authentic Hakka food, 30-year-old hole in the wall, might need reservations",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=8049332745289313955"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=8049332745289313955",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-chun-shui-tang-original",
+    "name": "The Original Store of Chun Shui Tang",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.137551,
+    "lng": 120.675581,
+    "category": "food",
+    "tags": [],
+    "why": "Original bubble tea shop; tea house",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=5403901197616972105"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=5403901197616972105",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-minimal",
+    "name": "MINIMAL",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151699,
+    "lng": 120.66234,
+    "category": "food",
+    "tags": [],
+    "why": "Ice cream",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=1904530289138725321"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=1904530289138725321",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-richu-dadi",
+    "name": "日出‧大地",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.138582,
+    "lng": 120.6632,
+    "category": "food",
+    "tags": [],
+    "why": "Bakery: cheesecake, pineapple cakes, gifts",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=839829008045225856"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=839829008045225856",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-phase-coffee",
+    "name": "Phase Coffee Roasters",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.13978,
+    "lng": 120.680842,
+    "category": "food",
+    "tags": [],
+    "why": "Cafe",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=5525236978207553119"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=5525236978207553119",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-second-market",
+    "name": "Taichung Second Market",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.142418,
+    "lng": 120.678757,
+    "category": "food",
+    "tags": [],
+    "why": "Traditional market",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=13623224561668156756"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=13623224561668156756",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-park-jade-market",
+    "name": "Taichung Park Jade Market",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.14272,
+    "lng": 120.683208,
+    "category": "shopping",
+    "tags": [],
+    "why": "Market",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=13577680991677488036"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=13577680991677488036",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-washida-home",
+    "name": "Washida Home Store",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.148662,
+    "lng": 120.662859,
+    "category": "shopping",
+    "tags": [],
+    "why": "Home goods",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=5021701981640386650"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=5021701981640386650",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-less-minquan",
+    "name": "LESS Taichung 台中民權店",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.147409,
+    "lng": 120.668391,
+    "category": "shopping",
+    "tags": [],
+    "why": "Fashion accessories",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=884189645548701931"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=884189645548701931",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-undefeated",
+    "name": "UNDEFEATED 台中",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151785,
+    "lng": 120.662608,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Clothing",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=14703338986301272158"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=14703338986301272158",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-rifare",
+    "name": "Rifare_co",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.175929,
+    "lng": 120.646411,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Shoes",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=14579912171220177758"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=14579912171220177758",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-supersunday",
+    "name": "SuperSunday",
+    "city": "Taichung",
+    "district": "Taiping",
+    "lat": 24.142332,
+    "lng": 120.71824,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Fashion accessories",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15938411308587988363"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15938411308587988363",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-saltedfish-fengjia",
+    "name": "saltedfish鹹魚-逢甲店",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.178242,
+    "lng": 120.645686,
+    "category": "shopping",
+    "tags": [
+      "vintage"
+    ],
+    "why": "Used clothing",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=2132735251155926499"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=2132735251155926499",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-rolling-on-sunrise",
+    "name": "Rolling On Sunrise",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.145764,
+    "lng": 120.662751,
+    "category": "shopping",
+    "tags": [
+      "vintage"
+    ],
+    "why": "Vintage select shop",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=8529854684821246446"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=8529854684821246446",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-nmr-chinmei",
+    "name": "NMR勤美店",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151388,
+    "lng": 120.662281,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15730581410230349379"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15730581410230349379",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-etw-chinmei",
+    "name": "ETW 台中勤美旗艦店",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151764,
+    "lng": 120.662378,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=513280700361307672"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=513280700361307672",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-beams-lalaport",
+    "name": "BEAMS LaLaport 台中",
+    "city": "Taichung",
+    "district": "East",
+    "lat": 24.135762,
+    "lng": 120.692551,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=25068881671103275"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=25068881671103275",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-beams-skm-zhonggang",
+    "name": "BEAMS 新光三越中港",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.165193,
+    "lng": 120.643691,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=8919104833278566934"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=8919104833278566934",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": "Google lists the Zhonggang Shin Kong Mitsukoshi as no longer existing — check before going"
+  },
+  {
+    "id": "tc-carhartt-top-city",
+    "name": "Carhartt WIP 台中大遠百",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.164466,
+    "lng": 120.644596,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=477071713791994723"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=477071713791994723",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-carhartt-flagship",
+    "name": "Carhartt WIP 台中旗艦店",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151317,
+    "lng": 120.662185,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=18286999663316642428"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=18286999663316642428",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-stussy",
+    "name": "Stussy Taichung",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151635,
+    "lng": 120.662016,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=14771289615047559324"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=14771289615047559324",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-hysteria",
+    "name": "Hysteria Store",
+    "city": "Taichung",
+    "district": "North",
+    "lat": 24.150898,
+    "lng": 120.684271,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=8151418916522739287"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=8151418916522739287",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-dycteam-lalaport",
+    "name": "DYCTEAM select lab - LaLaport 臺中",
+    "city": "Taichung",
+    "district": "East",
+    "lat": 24.135791,
+    "lng": 120.692454,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=11274551175832746342"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=11274551175832746342",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-dycteam-skm-zhonggang",
+    "name": "DYCTEAM select shop - 台中新光中港",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.165257,
+    "lng": 120.643708,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=6866903784859144006"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=6866903784859144006",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": "May be affected by the Shin Kong Mitsukoshi closure — check before going"
+  },
+  {
+    "id": "tc-lomopie",
+    "name": "Lomopie",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.148496,
+    "lng": 120.659113,
+    "category": "shopping",
+    "tags": [],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=10969977275033502822"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=10969977275033502822",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-ramon-central",
+    "name": "RAMON CENTRAL",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151652,
+    "lng": 120.662544,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=3677579142785108649"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=3677579142785108649",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-juice",
+    "name": "JUICE Taichung",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.152274,
+    "lng": 120.662712,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Calvin: sneaker store",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=5496595129740953347"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=5496595129740953347",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-invincible-central",
+    "name": "Invincible Central",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.151636,
+    "lng": 120.662336,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Calvin: sneaker/streetwear",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=9084163362785129663"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=9084163362785129663",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-jordan301",
+    "name": "JORDAN301TAICHUNG",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.164767,
+    "lng": 120.643475,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Calvin: sneaker store",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15917411899557999460"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15917411899557999460",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-phantaci",
+    "name": "PHANTACi",
+    "city": "Taichung",
+    "district": "North",
+    "lat": 24.152836,
+    "lng": 120.686204,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Calvin: sneaker store",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15709390559622978836"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15709390559622978836",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-since1996",
+    "name": "Since1996 Clothing (預約制)",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.163664,
+    "lng": 120.652007,
+    "category": "shopping",
+    "tags": [
+      "vintage"
+    ],
+    "why": "Appointment only",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=2534896873762647466"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=2534896873762647466",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-beams-outlet-port",
+    "name": "BEAMS OUTLET 台中港",
+    "city": "Taichung",
+    "district": "Wuqi",
+    "lat": 24.258002,
+    "lng": 120.51913,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Calvin: Beams outlet mall; far from center",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=1835929586283749454"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=1835929586283749454",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-nike-factory-port",
+    "name": "Nike Factory Store 台中港三井",
+    "city": "Taichung",
+    "district": "Wuqi",
+    "lat": 24.258602,
+    "lng": 120.516971,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "Calvin: Nike factory outlet; far from center",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=7345922614818988586"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=7345922614818988586",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-kodah",
+    "name": "柯達行 Kodah photography equipment",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.141858,
+    "lng": 120.680294,
+    "category": "shopping",
+    "tags": [
+      "film-gear"
+    ],
+    "why": "Calvin: film camera store",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15085411182885003258"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15085411182885003258",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-pro-camera",
+    "name": "普羅相機",
+    "city": "Taichung",
+    "district": "North",
+    "lat": 24.147499,
+    "lng": 120.68332,
+    "category": "shopping",
+    "tags": [
+      "film-gear"
+    ],
+    "why": "Calvin: camera store",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=3969755304183615627"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=3969755304183615627",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-fujifilm-imaging",
+    "name": "Fujifilm Digital Imaging",
+    "city": "Taichung",
+    "district": "South",
+    "lat": 24.108282,
+    "lng": 120.6576,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Photo lab",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=9283611673369156681"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=9283611673369156681",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-zhongshan-photo",
+    "name": "中山攝影社",
+    "city": "Taichung",
+    "district": "South",
+    "lat": 24.132185,
+    "lng": 120.677878,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Photo lab",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=770838214277919359"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=770838214277919359",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-shiguang-film-cafe",
+    "name": "時光 (film developing + dessert cafe)",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.140148,
+    "lng": 120.681618,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Film lab with pudding, scones, pound cake",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=8579690814773493259"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=8579690814773493259",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-jinfeilin-lab",
+    "name": "金霏林沖放會社",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.140717,
+    "lng": 120.646498,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Film lab",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=10405050418255694218"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=10405050418255694218",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-xuli-lab",
+    "name": "旭麗數位沖印店",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.180793,
+    "lng": 120.637748,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Photo lab",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=10191466143537548160"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=10191466143537548160",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-beams-nanxi",
+    "name": "BEAMS 誠品生活南西",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.052131,
+    "lng": 121.520677,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=1212946090264151146"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=1212946090264151146",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-beams-taipei",
+    "name": "BEAMS Taipei Store",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.060384,
+    "lng": 121.557104,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=10275743034727845299"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=10275743034727845299",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-juice",
+    "name": "JUICE Taipei",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.043341,
+    "lng": 121.550881,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=3506743030826430047"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=3506743030826430047",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-mitty",
+    "name": "Mitty",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.055069,
+    "lng": 121.519669,
+    "category": "shopping",
+    "tags": [],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15754689255237403442"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15754689255237403442",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-invincible",
+    "name": "INVINCIBLE TPE",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.044034,
+    "lng": 121.550912,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=15795879522314512064"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=15795879522314512064",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-stussy",
+    "name": "Stüssy Taipei",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.044006,
+    "lng": 121.552548,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=564154148224525071"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=564154148224525071",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-stussy-xinyi",
+    "name": "STUSSY XINYI",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.036718,
+    "lng": 121.568131,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=7844211159998554255"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=7844211159998554255",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-waiting-room",
+    "name": "Waiting Room",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.049352,
+    "lng": 121.520222,
+    "category": "shopping",
+    "tags": [],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=5088263451892638532"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=5088263451892638532",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-par-store",
+    "name": "PAR STORE",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.05346,
+    "lng": 121.519357,
+    "category": "shopping",
+    "tags": [
+      "streetwear"
+    ],
+    "why": "",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=2100819134762119361"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=2100819134762119361",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-snappp",
+    "name": "SNAPPP寫真私館 AKA赤店",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.056471,
+    "lng": 121.519686,
+    "category": "shopping",
+    "tags": [
+      "film-gear"
+    ],
+    "why": "Calvin: film camera store chain",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=16028830562431587257"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=16028830562431587257",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-beorg-camera",
+    "name": "Beorg camera 貝爾格相機店",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.025183,
+    "lng": 121.51219,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Calvin: film, cameras and lab; highly rated",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=9677951322303436498"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=9677951322303436498",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-linwu-lab",
+    "name": "林屋沖洗",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.046141,
+    "lng": 121.511854,
+    "category": "film-lab",
+    "tags": [],
+    "why": "Calvin: film and film cameras",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=14841318173817757605"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=14841318173817757605",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-gongguan-flea",
+    "name": "公館創意跳蚤市集",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.012797,
+    "lng": 121.533778,
+    "category": "shopping",
+    "tags": [],
+    "why": "Calvin: flea market",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=5125481454648952658"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=5125481454648952658",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-housing-101-view",
+    "name": "Housing",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.025524,
+    "lng": 121.569699,
+    "category": "attraction",
+    "tags": [],
+    "why": "Calvin: alley view of Taipei 101",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Calvin's Google Maps list",
+        "url": "https://maps.google.com/?cid=538884408838605488"
+      }
+    ],
+    "gmaps": "https://maps.google.com/?cid=538884408838605488",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-don-moo",
+    "name": "Don Moo",
+    "city": "Taichung",
+    "district": "North",
+    "lat": 24.155597,
+    "lng": 120.669999,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand, new 2026; duck rice and dry duck noodles",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin Bib Gourmand 2026 list",
+        "url": "https://guide.michelin.com/tw/en/article/michelin-guide-ceremony/taiwan-2026-bib-gourmand-list"
+      },
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/tw/en/taichung-region/taichung/restaurant/don-moo"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B2%90%E3%80%82%E9%A3%9F%E5%9C%A8%20%E8%87%BA%E4%B8%AD%E5%B8%82%E5%8C%97%E5%8D%80%E8%8B%B1%E6%89%8D%E8%B7%AF317%E8%99%9F",
+    "hours": {
+      "mon": [],
+      "tue": [
+        [
+          "11:30",
+          "14:30"
+        ]
+      ],
+      "wed": [
+        [
+          "11:30",
+          "14:30"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "14:30"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "14:30"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "317 Yingcai Road, North District, Taichung",
+    "flag": null,
+    "nameZh": "東沐。食在",
+    "addressZh": "臺中市北區英才路317號"
+  },
+  {
+    "id": "tc-fu-din-wang-central",
+    "name": "Fu Din Wang (Central)",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.14526,
+    "lng": 120.676533,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; braised pork rice and pork knuckle",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/fu-din-wang-central"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E9%BC%8E%E6%97%BA%20%28%E4%B8%AD%E5%8D%80%29%20%E8%87%BA%E4%B8%AD%E5%B8%82%E4%B8%AD%E5%8D%80%E8%87%BA%E7%81%A3%E5%A4%A7%E9%81%93%E4%B8%80%E6%AE%B5560%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "14:30"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "14:30"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "14:30"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "14:30"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "14:30"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "14:30"
+        ]
+      ],
+      "sun": []
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "560, Section 1, Taiwan Boulevard, Central District, Taichung",
+    "flag": null,
+    "nameZh": "富鼎旺 (中區)",
+    "addressZh": "臺中市中區臺灣大道一段560號"
+  },
+  {
+    "id": "tc-ke-kou-beef-noodles",
+    "name": "Ke Kou Beef Noodles",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": null,
+    "lng": null,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; beef noodle soup (Xitun)",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/ke-kou-beef-noodles"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%AF%E5%8F%A3%E7%89%9B%E8%82%89%E9%BA%B5%20%E8%87%BA%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80%E5%A4%A7%E5%A2%A9%E8%B7%AF911%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "16:30",
+          "20:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "16:30",
+          "20:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "16:30",
+          "20:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "16:30",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "14:00"
+        ],
+        [
+          "16:30",
+          "20:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "911 Dadun Road, Xitun District, Taichung",
+    "flag": null,
+    "nameZh": "可口牛肉麵",
+    "addressZh": "臺中市西屯區大墩路911號"
+  },
+  {
+    "id": "tc-taichung-meatball",
+    "name": "Taichung Meatball",
+    "city": "Taichung",
+    "district": "South",
+    "lat": 24.134475,
+    "lng": 120.682505,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; small eats",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/taichung-meatball"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E4%B8%AD%E8%82%89%E5%93%A1%20%E8%87%BA%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E5%BE%A9%E8%88%88%E8%B7%AF%E4%B8%89%E6%AE%B5529%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ],
+      "sun": [
+        [
+          "10:30",
+          "19:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "529, Section 3, Fuxing Road, South District, Taichung",
+    "flag": null,
+    "nameZh": "台中肉員",
+    "addressZh": "臺中市南區復興路三段529號"
+  },
+  {
+    "id": "tc-night-school-pork-rice",
+    "name": "Night School Braised Pork Rice",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.150356,
+    "lng": 120.655212,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; small eats",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/night-school-braised-pork-rice"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%9C%E9%96%93%E9%83%A8%E7%88%8C%E8%82%89%E9%A3%AF%20%E8%87%BA%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E7%B2%BE%E8%AA%A0%E8%B7%AF109%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ],
+      "tue": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ],
+      "wed": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ],
+      "thu": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ],
+      "fri": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ],
+      "sat": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ],
+      "sun": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "109 Jingcheng Road, West District, Taichung",
+    "flag": null,
+    "nameZh": "夜間部爌肉飯",
+    "addressZh": "臺中市西區精誠路109號"
+  },
+  {
+    "id": "tc-lao-shih-kuan-noodles",
+    "name": "Lao Shih Kuan Noodles",
+    "city": "Taichung",
+    "district": "Qingshui",
+    "lat": null,
+    "lng": null,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; noodles",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/lao-shih-kuan-noodles"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E5%A3%AB%E5%AE%98%E6%93%80%E9%BA%B5%20%E8%87%BA%E4%B8%AD%E5%B8%82%E6%B8%85%E6%B0%B4%E5%8D%80%E9%8E%AE%E5%8D%97%E8%A1%9781%E4%B9%8B12%E8%99%9F",
+    "hours": {
+      "mon": [],
+      "tue": [
+        [
+          "08:00",
+          "13:30"
+        ]
+      ],
+      "wed": [
+        [
+          "08:00",
+          "13:30"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00",
+          "13:30"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00",
+          "13:30"
+        ]
+      ],
+      "sat": [
+        [
+          "08:00",
+          "13:30"
+        ]
+      ],
+      "sun": [
+        [
+          "08:00",
+          "13:30"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "81-12 Zhennan Street, Qingshui District, Taichung",
+    "flag": null,
+    "nameZh": "老士官擀麵",
+    "addressZh": "臺中市清水區鎮南街81之12號"
+  },
+  {
+    "id": "tc-shanghai-food-nantun",
+    "name": "Shanghai Food (Nantun)",
+    "city": "Taichung",
+    "district": "Nantun",
+    "lat": null,
+    "lng": null,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; dim sum",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/shanghai-food"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E6%BB%AC%E8%88%8D%E9%A4%98%E5%91%B3%20%28%E5%8D%97%E5%B1%AF%29%20%E8%87%BA%E4%B8%AD%E5%B8%82%E5%8D%97%E5%B1%AF%E5%8D%80%E5%85%AC%E7%9B%8A%E8%B7%AF%E4%BA%8C%E6%AE%B5537%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:00",
+          "20:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "537, Section 2, Gongyi Road, Nantun District, Taichung",
+    "flag": null,
+    "nameZh": "滬舍餘味 (南屯)",
+    "addressZh": "臺中市南屯區公益路二段537號"
+  },
+  {
+    "id": "tc-feng-chi-goose",
+    "name": "Feng Chi Goose",
+    "city": "Taichung",
+    "district": "Shalu",
+    "lat": 24.209591,
+    "lng": 120.569135,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; Taiwanese",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/feng-chi-goose"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%B3%B3%E8%A8%98%E9%B5%9D%E8%82%89%E8%80%81%E5%BA%97%20%E8%87%BA%E4%B8%AD%E5%B8%82%E6%B2%99%E9%B9%BF%E5%8D%80%E5%B1%8F%E8%A5%BF%E8%B7%AF170%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ],
+      "wed": [],
+      "thu": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ],
+      "sun": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "170 Pingxi Road, Shalu District, Taichung",
+    "flag": null,
+    "nameZh": "鳳記鵝肉老店",
+    "addressZh": "臺中市沙鹿區屏西路170號"
+  },
+  {
+    "id": "tc-niou-jia-juang",
+    "name": "Niou Jia Juang",
+    "city": "Taichung",
+    "district": "Dongshi",
+    "lat": 24.262964,
+    "lng": 120.824733,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; Hakka",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taichung-region/taichung/restaurant/niou-jia-juang"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E7%A8%BC%E8%8E%8A%20%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80%E6%96%B0%E8%B1%90%E8%A1%9719%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "tue": [],
+      "wed": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "19 Xinfeng Street, Dongshi District, Taichung",
+    "flag": null,
+    "nameZh": "牛稼莊",
+    "addressZh": "臺中市東勢區新豐街19號"
+  },
+  {
+    "id": "tc-jl-studio",
+    "name": "JL Studio",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.141085,
+    "lng": 120.658974,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Three Michelin stars (2026); splurge, book ahead",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin Taiwan 2026 full list",
+        "url": "https://guide.michelin.com/tw/en/article/michelin-guide-ceremony/taiwan-full-list"
+      },
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/tw/en/taichung-region/taichung/restaurant/jl-studio"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=JL%20Studio%20Taichung",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "thu": [
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ],
+      "sun": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "59, Cunzhong Street, West District, Taichung",
+    "flag": null,
+    "nameZh": "JL STUDIO",
+    "addressZh": "臺中市西區存中街59號"
+  },
+  {
+    "id": "tc-fengchia-night-market",
+    "name": "Fengchia Night Market",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.177351,
+    "lng": 120.6466,
+    "category": "food",
+    "tags": [],
+    "why": "Huge night market (Wenhua Rd, Xitun); stalls: 官芝霖大腸包小腸, 逢甲丹丹香葱油餅",
+    "notes": "",
+    "sources": [
+      {
+        "label": "The Ordinary Katalog",
+        "url": "https://theordinarykatalog.com/taichung-food-guide/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Fengchia%20Night%20Market%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-he-jia-egg-pancake",
+    "name": "賀家蛋餅 (Fengchia)",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": null,
+    "lng": null,
+    "category": "food",
+    "tags": [],
+    "why": "Crispy pork chop egg pancake; breakfast; closed Sundays",
+    "notes": "",
+    "sources": [
+      {
+        "label": "The Ordinary Katalog",
+        "url": "https://theordinarykatalog.com/taichung-food-guide/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E8%B3%80%E5%AE%B6%E8%9B%8B%E9%A4%85%20%28Fengchia%29%20Taichung",
+    "hours": {
+      "mon": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ],
+      "tue": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ],
+      "wed": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ],
+      "thu": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ],
+      "fri": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ],
+      "sat": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ],
+      "sun": []
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-taiwan-king-noodles",
+    "name": "大王麻辣乾麵 Taiwan King (永福總店)",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.181713,
+    "lng": 120.619169,
+    "category": "food",
+    "tags": [],
+    "why": "Spicy dry noodles, 7 heat levels",
+    "notes": "",
+    "sources": [
+      {
+        "label": "The Ordinary Katalog",
+        "url": "https://theordinarykatalog.com/taichung-food-guide/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%8E%8B%E9%BA%BB%E8%BE%A3%E4%B9%BE%E9%BA%B5%20Taiwan%20King%20%28%E6%B0%B8%E7%A6%8F%E7%B8%BD%E5%BA%97%29%20Taichung",
+    "hours": {
+      "mon": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-miyahara",
+    "name": "Miyahara 宮原眼科",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.137851,
+    "lng": 120.68357,
+    "category": "food",
+    "tags": [],
+    "why": "Ice cream in a restored Japanese-era eye clinic, near Taichung Station; go early",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Miyahara%20%E5%AE%AE%E5%8E%9F%E7%9C%BC%E7%A7%91%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-haritts",
+    "name": "Haritts Donuts & Coffee (Taichung)",
+    "city": "Taichung",
+    "district": "West",
+    "lat": null,
+    "lng": null,
+    "category": "food",
+    "tags": [],
+    "why": "Japanese-style donuts near the Calligraphy Greenway",
+    "notes": "",
+    "sources": [
+      {
+        "label": "The Ordinary Katalog",
+        "url": "https://theordinarykatalog.com/taichung-food-guide/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Haritts%20Donuts%20%26%20Coffee%20%28Taichung%29%20Taichung",
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ],
+      "sun": [
+        [
+          "11:00",
+          "18:30"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-yizhong-night-market",
+    "name": "Yizhong Street Night Market",
+    "city": "Taichung",
+    "district": "North",
+    "lat": 24.149791,
+    "lng": 120.685245,
+    "category": "food",
+    "tags": [],
+    "why": "Night market just north of Taichung Park",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Yizhong%20Street%20Night%20Market%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-yu-yu-1969",
+    "name": "Yu Yu 1969",
+    "city": "Taipei",
+    "district": "Zhongshan",
+    "lat": 25.048977,
+    "lng": 121.542076,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand, new 2026; Taiwanese stir-fries",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin Bib Gourmand 2026 list",
+        "url": "https://guide.michelin.com/tw/en/article/michelin-guide-ceremony/taiwan-2026-bib-gourmand-list"
+      },
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/yu-yu-1969"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%9C%891969%20%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%81%BC%E5%AF%A7%E8%A1%9748%E8%99%9F",
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "14:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "14:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "14:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "14:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "14:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "14:00"
+        ]
+      ],
+      "sun": []
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "48 Liaoning Street, Zhongshan District, Taipei",
+    "flag": null,
+    "nameZh": "有有1969",
+    "addressZh": "臺北市中山區遼寧街48號"
+  },
+  {
+    "id": "tp-open-smile",
+    "name": "Open Smile",
+    "city": "Taipei",
+    "district": "Xinyi",
+    "lat": 25.027155,
+    "lng": 121.567115,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand, new 2026; braised pork",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin Bib Gourmand 2026 list",
+        "url": "https://guide.michelin.com/tw/en/article/michelin-guide-ceremony/taiwan-2026-bib-gourmand-list"
+      },
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/open-smile"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%96%8B%E5%9B%8D%20%E8%87%BA%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E8%8E%8A%E6%95%AC%E8%B7%AF441%E8%99%9F",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "441 Zhuangjing Road, Xinyi District, Taipei",
+    "flag": null,
+    "nameZh": "開囍",
+    "addressZh": "臺北市信義區莊敬路441號"
+  },
+  {
+    "id": "tp-ching-jiao",
+    "name": "Ching Jiao",
+    "city": "Taipei",
+    "district": "Zhongzheng",
+    "lat": 25.041024,
+    "lng": 121.528968,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand, new 2026; chicken soup",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin Bib Gourmand 2026 list",
+        "url": "https://guide.michelin.com/tw/en/article/michelin-guide-ceremony/taiwan-2026-bib-gourmand-list"
+      },
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/ching-jiao"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E5%AC%8C%20%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%BF%9F%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B59%E8%99%9F",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "9, Section 2, Jinan Road, Zhongzheng District, Taipei",
+    "flag": null,
+    "nameZh": "青嬌",
+    "addressZh": "臺北市中正區濟南路二段9號"
+  },
+  {
+    "id": "tp-wangs-broth",
+    "name": "Wang's Broth 小王煮瓜",
+    "city": "Taipei",
+    "district": "Wanhua",
+    "lat": 25.039289,
+    "lng": 121.498598,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand 2026; braised pork rice; Huaxi Street Night Market, Wanhua",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/us/en/taipei-region/taipei/restaurant/hsiao-wang-steamed-minced-pork-with-pickles-in-broth"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%8E%8B%E7%85%AE%E7%93%9C%20%E8%87%BA%E5%8C%97%E5%B8%82%E8%90%AC%E8%8F%AF%E5%8D%80%E8%8F%AF%E8%A5%BF%E8%A1%9717%E4%B9%8B4%E8%99%9F153%E8%99%9F%E6%94%A4%20%28%E8%8F%AF%E8%A5%BF%E8%A1%97%E5%A4%9C%E5%B8%82%29",
+    "hours": {
+      "mon": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ],
+      "tue": [],
+      "wed": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ],
+      "sun": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "Huaxi Street Night Market, Stall 153, 17-4 Huaxi Street, Wanhua District, Taipei",
+    "flag": null,
+    "nameZh": "小王煮瓜",
+    "addressZh": "臺北市萬華區華西街17之4號153號攤 (華西街夜市)"
+  },
+  {
+    "id": "tp-hsiung-chi-scallion-pancake",
+    "name": "Hsiung Chi Scallion Pancake 雄記蔥抓餅",
+    "city": "Taipei",
+    "district": "Zhongzheng",
+    "lat": 25.013304,
+    "lng": 121.535202,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Bib Gourmand; 2, Lane 108, Sec. 4, Roosevelt Rd (Gongguan Night Market)",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/jp/ja/taipei-region/taipei/restaurant/hsiung-chi-scallion-pancake"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%9B%84%E8%A8%98%E8%94%A5%E6%8A%93%E9%A4%85%20%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B5108%E5%B7%B72%E8%99%9F%20%28%E5%85%AC%E9%A4%A8%E5%A4%9C%E5%B8%82%29",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "2, Lane 108, Section 4, Roosevelt Road, Zhongzheng District, Taipei",
+    "flag": null,
+    "nameZh": "雄記蔥抓餅",
+    "addressZh": "臺北市中正區羅斯福路四段108巷2號 (公館夜市)"
+  },
+  {
+    "id": "tp-yuan-huan-pien-oyster",
+    "name": "Yuan Huan Pien Oyster Egg Omelette",
+    "city": "Taipei",
+    "district": "Datong",
+    "lat": 25.056359,
+    "lng": 121.515275,
+    "category": "food",
+    "tags": [
+      "michelin"
+    ],
+    "why": "Michelin Selected 2026",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Michelin Taiwan 2026 full list",
+        "url": "https://guide.michelin.com/tw/en/article/michelin-guide-ceremony/taiwan-full-list"
+      },
+      {
+        "label": "Michelin page",
+        "url": "https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/yuan-huan-pien-oyster-egg-omelette"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E5%9C%93%E7%92%B0%E9%82%8A%E8%9A%B5%E4%BB%94%E7%85%8E%20%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80%E5%AF%A7%E5%A4%8F%E8%B7%AF46%E8%99%9F%20%28%E5%AF%A7%E5%A4%8F%E5%A4%9C%E5%B8%82%29",
+    "hours": {
+      "mon": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ],
+      "tue": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ],
+      "wed": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ],
+      "thu": [],
+      "fri": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ],
+      "sat": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ],
+      "sun": [
+        [
+          "12:00",
+          "14:30"
+        ]
+      ]
+    },
+    "startDate": null,
+    "endDate": null,
+    "address": "Ningxia Night Market, 46 Ningxia Road, Datong District, Taipei",
+    "flag": null,
+    "nameZh": "圓環邊蚵仔煎",
+    "addressZh": "臺北市大同區寧夏路46號 (寧夏夜市)"
+  },
+  {
+    "id": "tc-natural-science-museum",
+    "name": "National Museum of Natural Science",
+    "city": "Taichung",
+    "district": "North",
+    "lat": 24.157316,
+    "lng": 120.666761,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Moving life-size dinosaurs, IMAX",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Natural%20Science%2C%20No.%201%2C%20Guanqian%20Rd%2C%20North%20District%2C%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "No. 1, Guanqian Rd, North District, Taichung",
+    "flag": "A review reported the dinosaur hall temporarily closed — check"
+  },
+  {
+    "id": "tc-921-earthquake-museum",
+    "name": "921 Earthquake Museum",
+    "city": "Taichung",
+    "district": "Wufeng",
+    "lat": 24.042614,
+    "lng": 120.699143,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Preserved school on the fault line, quake simulator",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=921%20Earthquake%20Museum%2C%20No.%20192%2C%20Xinsheng%20Rd%2C%20Wufeng%20District%2C%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "No. 192, Xinsheng Rd, Wufeng District, Taichung",
+    "flag": "Simulator reported closed on one visit"
+  },
+  {
+    "id": "tc-macaron-park",
+    "name": "Macaron Park",
+    "city": "Taichung",
+    "district": "Taiping",
+    "lat": 24.14752,
+    "lng": 120.712764,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Playground, 11 m slide; open 24 hours",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taichung Tourism: family fun",
+        "url": "https://travel.taichung.gov.tw/en/experience/family-fun"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Macaron%20Park%2C%20No.%2019%2C%20Sec.%204%2C%20Huanzhong%20E%20Rd%2C%20Taiping%20District%2C%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "No. 19, Sec. 4, Huanzhong E Rd, Taiping District, Taichung",
+    "flag": null
+  },
+  {
+    "id": "tc-lixin-park",
+    "name": "Lixin Park",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.152405,
+    "lng": 120.625197,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Nine climbing-net structures",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taichung Tourism: family fun",
+        "url": "https://travel.taichung.gov.tw/en/experience/family-fun"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%BB%8E%E6%96%B0%E5%85%AC%E5%9C%92%20%E8%87%BA%E4%B8%AD%E5%B8%82",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "No. 1, Sec. 5, Longfu Rd, Xitun District, Taichung",
+    "flag": null
+  },
+  {
+    "id": "tc-taichung-park",
+    "name": "Taichung Park",
+    "city": "Taichung",
+    "district": "Central",
+    "lat": 24.14413,
+    "lng": 120.684124,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Lake and pavilion; walk to Yizhong Night Market",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taichung%20Park%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-calligraphy-greenway",
+    "name": "Calligraphy Greenway",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.153952,
+    "lng": 120.663567,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "3.6 km green strip past museums and Shenji New Village",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Calligraphy%20Greenway%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-national-taichung-theater",
+    "name": "National Taichung Theater",
+    "city": "Taichung",
+    "district": "Xitun",
+    "lat": 24.162926,
+    "lng": 120.640517,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Toyo Ito opera house; free photo stop",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=National%20Taichung%20Theater%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-bugcat-capoo-house",
+    "name": "BugCat Capoo House",
+    "city": "Taichung",
+    "district": "West",
+    "lat": 24.147565,
+    "lng": 120.667451,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Capoo store; closed Tuesdays",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=BugCat%20Capoo%20House%2C%20No.%2023%2C%20Lane%208%2C%20Mofan%20St%2C%20West%20District%2C%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "No. 23, Lane 8, Mofan St, West District, Taichung",
+    "flag": null
+  },
+  {
+    "id": "tc-rainbow-village",
+    "name": "Rainbow Village",
+    "city": "Taichung",
+    "district": "Nantun",
+    "lat": 24.13386,
+    "lng": 120.609972,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Painted village, smaller since 2022; closed Mondays",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taichung",
+        "url": "https://www.nickkembel.com/things-to-do-in-taichung/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Village%2C%20Chun%27an%20Rd%2C%20Nantun%20District%2C%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "Chun'an Rd, Nantun District, Taichung",
+    "flag": null
+  },
+  {
+    "id": "tc-gaomei-wetland",
+    "name": "Gaomei Wetland",
+    "city": "Taichung",
+    "district": "Qingshui",
+    "lat": 24.299154,
+    "lng": 120.546885,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Boardwalk and wind turbines; best at low tide and sunset",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Nick Kembel: Taiwan with kids",
+        "url": "https://www.nickkembel.com/taiwan-with-kids/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Gaomei%20Wetland%20Taichung",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-lihpao-land",
+    "name": "Lihpao Land 麗寶樂園",
+    "city": "Taichung",
+    "district": "Houli",
+    "lat": 24.323518,
+    "lng": 120.695946,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Theme park and pet farm; go on a weekday",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Expedia: Taichung things to do",
+        "url": "https://www.expedia.com/Things-To-Do-In-Taichung.d6177563.Travel-Guide-Activities"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%20%E8%87%BA%E4%B8%AD%E5%B8%82",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": "No. 8, Furong Rd, Houli District, Taichung",
+    "flag": null
+  },
+  {
+    "id": "tp-taipei-zoo-maokong",
+    "name": "Taipei Zoo + Maokong Gondola",
+    "city": "Taipei",
+    "district": "Wenshan",
+    "lat": 24.995355,
+    "lng": 121.586149,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Classic family day out",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taipei Tourism: Taipei with kids",
+        "url": "https://www.taipeitourism.org/taipei-with-kids/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taipei%20Zoo",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-taipei-101-observatory",
+    "name": "Taipei 101 Observatory",
+    "city": "Taipei",
+    "district": "Xinyi",
+    "lat": 25.033835,
+    "lng": 121.564499,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "City views",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taiwan Obsessed: Taiwan with kids",
+        "url": "https://www.taiwanobsessed.com/taiwan-with-kids/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taipei%20101%20Observatory%20Taipei",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-childrens-amusement-park",
+    "name": "Taipei Children's Amusement Park",
+    "city": "Taipei",
+    "district": "Shilin",
+    "lat": 25.097415,
+    "lng": 121.514972,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Rides for younger kids",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taiwanderers: Taipei things to do",
+        "url": "https://taiwanderers.com/taipei-things-to-do/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taipei%20Children%27s%20Amusement%20Park%20Taipei",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-astronomical-museum",
+    "name": "Taipei Astronomical Museum",
+    "city": "Taipei",
+    "district": "Shilin",
+    "lat": 25.09599,
+    "lng": 121.518524,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Indoor rainy-day option",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Sunny City Kids: Taipei with kids",
+        "url": "https://www.sunnycitykids.com/blog/best-things-to-do-in-taipei-with-kids"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taipei%20Astronomical%20Museum%20Taipei",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-miramar-ferris-wheel",
+    "name": "Miramar Ferris Wheel",
+    "city": "Taipei",
+    "district": "Zhongshan",
+    "lat": 25.082807,
+    "lng": 121.557716,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Rooftop Ferris wheel",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Justaiwan Tour: family tour",
+        "url": "https://www.justaiwantour.com/taipei-family-tour-kid-friendly-activities/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Miramar%20Ferris%20Wheel%20Taipei",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-airport-alley",
+    "name": "Airport Alley",
+    "city": "Taipei",
+    "district": "Zhongshan",
+    "lat": null,
+    "lng": null,
+    "category": "attraction",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "Free; planes land just overhead",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taiwanderers: Taipei with kids",
+        "url": "https://taiwanderers.com/taipei-with-kids-things-to-do/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=%E9%A3%9B%E6%A9%9F%E5%B7%B7%20%E6%BF%B1%E6%B1%9F%E8%A1%97%20%E8%87%BA%E5%8C%97%E5%B8%82",
+    "hours": null,
+    "startDate": null,
+    "endDate": null,
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-event-voices-festival",
+    "name": "VOICES 呼聲 music festival",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.074735,
+    "lng": 121.539003,
+    "category": "event",
+    "tags": [],
+    "why": "Music festival",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Bandsintown: Taipei",
+        "url": "https://www.bandsintown.com/c/taipei-city-taiwan"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Dajia%20Riverside%20Park%2C%20Taipei",
+    "hours": null,
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-04",
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-event-national-day-fireworks",
+    "name": "Taipei 101 National Day fireworks, drones and lights (10 PM, ~14 min)",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.033835,
+    "lng": 121.564499,
+    "category": "event",
+    "tags": [
+      "kid-friendly"
+    ],
+    "why": "View from the Taipei Civic Plaza area",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taiwan Obsessed: Taiwan in October",
+        "url": "https://www.taiwanobsessed.com/taiwan-in-october/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taipei%20101",
+    "hours": null,
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tp-event-chill-out-festival",
+    "name": "Chill Out Music Festival (dates to confirm)",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.014917,
+    "lng": 121.534264,
+    "category": "event",
+    "tags": [],
+    "why": "Music festival in Gongguan",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taiwan Obsessed: Taiwan in October",
+        "url": "https://www.taiwanobsessed.com/taiwan-in-october/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Gongguan%2C%20Taipei",
+    "hours": null,
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-11",
+    "address": null,
+    "flag": "Exact dates unconfirmed"
+  },
+  {
+    "id": "tp-event-taipei-jazz-festival",
+    "name": "Taipei Jazz Festival concerts",
+    "city": "Taipei",
+    "district": null,
+    "lat": 25.03752,
+    "lng": 121.56368,
+    "category": "event",
+    "tags": [],
+    "why": "Concerts through October; various venues (pin at city center)",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taiwan Obsessed: Taiwan in October",
+        "url": "https://www.taiwanobsessed.com/taiwan-in-october/"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taipei%20Jazz%20Festival",
+    "hours": null,
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-15",
+    "address": null,
+    "flag": null
+  },
+  {
+    "id": "tc-event-lets-hike-taichung",
+    "name": "Let's Hike! Taichung!",
+    "city": "Taichung",
+    "district": null,
+    "lat": 24.163162,
+    "lng": 120.647828,
+    "category": "event",
+    "tags": [],
+    "why": "Ongoing hiking program; citywide (pin at city center)",
+    "notes": "",
+    "sources": [
+      {
+        "label": "Taichung Tourism calendar",
+        "url": "https://travel.taichung.gov.tw/en/Event/TouristCalendar"
+      }
+    ],
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Taichung%20hiking%20trails",
+    "hours": null,
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-15",
+    "address": null,
+    "flag": null
+  }
+]
